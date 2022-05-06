@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^2.4.0"
+  }
+}
